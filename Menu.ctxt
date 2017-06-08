@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Menu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Menu()
+comment2.params=tb\ items\ fs\ fgMain\ bgMain\ fgSecond\ bgSecond\ mc
+comment2.target=Menu(java.lang.String,\ java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color,\ MenuCommands)
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ addedToWorld\ adds\ a\ title\ bar\ object\ into\ the\ world\ at\ X\ and\ Y\r\n\ @param\ World\ w\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Menu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=
+comment5.target=void\ handleMouse()
+comment5.text=\r\n\ handleMouse\ when\ the\ mouse\ clicks\ on\ titleBar\ it\ shows\ menuItems\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=6

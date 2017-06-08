@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileCommands
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FileCommands\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=idx\ w
+comment1.target=void\ execute(int,\ greenfoot.World)
+comment1.text=\r\n\ execute\ uses\ idx\ to\ tell\ the\ system\ what\ text\ to\ display\ \r\n\ @param\ int\ idx\ is\ an\ integer\ to\ represent\ text\r\n\ @param\ world\ w\ is\ a\ reference\ to\ the\ world\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=2

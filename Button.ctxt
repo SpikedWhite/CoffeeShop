@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=fs\ f\ s\ t
+comment2.target=Button(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=f\ s
+comment3.target=Button(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ handleMouseClicks()
+comment4.text=\r\n\ handleMouseClicks\ checks\ if\ the\ mouse\ has\ been\ clicked\ or\ pressed\ on\ the\ button\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ clickedAction()
+comment5.text=\r\n\ clickedAction\ ignores\ the\ case\ of\ the\ text\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=6
